@@ -103,7 +103,7 @@ This demonstrates both foundational knowledge and modern Web3 frontend practices
 
 ### 🌍 Live Demo
 
-https://your-wagmi-project.vercel.app
+https://erc20-vault-dapp-wagmi.vercel.app/
 
 ---
 
@@ -254,7 +254,7 @@ npm run dev
 
 ### 🌍 在线访问
 
-https://your-wagmi-project.vercel.app
+https://erc20-vault-dapp-wagmi.vercel.app/
 
 ---
 
