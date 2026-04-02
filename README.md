@@ -96,8 +96,8 @@ This demonstrates both foundational knowledge and modern Web3 frontend practices
 
 ### 📦 Smart Contracts (Sepolia)
 
-- ERC20 Token: `YOUR_TOKEN_ADDRESS`
-- TokenBank (Vault): `YOUR_BANK_ADDRESS`
+- ERC20 Token: `0xfC418b3CbeD2EbBe262180c9b7921B2dA0a26FB8`
+- TokenBank (Vault): `0x254B9245f2F5b18546Aa085F2b5493ea98Fefe71`
 
 ---
 
@@ -111,8 +111,6 @@ https://erc20-vault-dapp-wagmi.vercel.app/
 
 ![wallet](./src/assets/ScreenShot_1.png)  
 ![approve](./src/assets/ScreenShot_2.png)  
-![deposit](./src/assets/ScreenShot_3.png)  
-![deposit](./src/assets/ScreenShot_4.png)  
 ![deposit](./src/assets/ScreenShot_5.png)  
 ![deposit](./src/assets/ScreenShot_6.png)  
 ![deposit](./src/assets/ScreenShot_7.png)
@@ -247,8 +245,8 @@ npm run dev
 
 ### 📦 合约地址（Sepolia 测试网）
 
-- ERC20 Token：`YOUR_TOKEN_ADDRESS`
-- TokenBank（Vault）：`YOUR_BANK_ADDRESS`
+- ERC20 Token：`0xfC418b3CbeD2EbBe262180c9b7921B2dA0a26FB8`
+- TokenBank（Vault）：`0x254B9245f2F5b18546Aa085F2b5493ea98Fefe71`
 
 ---
 
@@ -262,8 +260,6 @@ https://erc20-vault-dapp-wagmi.vercel.app/
 
 ![wallet](./src/assets/ScreenShot_1.png)  
 ![approve](./src/assets/ScreenShot_2.png)  
-![deposit](./src/assets/ScreenShot_3.png)  
-![deposit](./src/assets/ScreenShot_4.png)  
 ![deposit](./src/assets/ScreenShot_5.png)  
 ![deposit](./src/assets/ScreenShot_6.png)  
 ![deposit](./src/assets/ScreenShot_7.png)
